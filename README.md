@@ -22,6 +22,7 @@ This challenge focuses on two main tracks:
 
 5. **Submit a Pull Request**: Submit your contributions as pull requests. Please follow our contribution guidelines outlined in the project's README.
 
+### Still confused about how to get started? 🤔 Watch the recording of our info session on how to participate in this challenge on [Youtube](https://www.youtube.com/watch?v=7QKdghxH06M&t=1192s).
 ## 🏆 Leaderboard
 
 We maintain a leaderboard to track your contributions and their impact on our projects. The more you contribute, the higher you'll climb on the leaderboard.
@@ -29,10 +30,18 @@ We maintain a leaderboard to track your contributions and their impact on our pr
 <!-- Section Start -->
 ### Top 10 Contributors
 
-| Rank || Contributor | Merged PRs |
-| ---- | -- |----------- | ---------- |
-| 1 | <img src='https://avatars.githubusercontent.com/u/105247084?v=4' alt='Avatar' width='30' height='30'> | [ayoni02](https://github.com/ayoni02) | 2 |
-| 2 | <img src='https://avatars.githubusercontent.com/u/39243097?v=4' alt='Avatar' width='30' height='30'> | [andrefpoliveira](https://github.com/andrefpoliveira) | 1 |
+| S/N | Rank || Contributor | Merged PRs |
+|--| ---- | -- |----------- | ---------- |
+| 1 | 1 | <img src='https://avatars.githubusercontent.com/u/105247084?v=4' alt='Avatar' width='30' height='30'> | [ayoni02](https://github.com/ayoni02) | 7 |
+| 2 | 2 | <img src='https://avatars.githubusercontent.com/u/59745353?v=4' alt='Avatar' width='30' height='30'> | [Josiah-Adesola](https://github.com/Josiah-Adesola) | 4 |
+| 3 | 3 | <img src='https://avatars.githubusercontent.com/u/29100815?v=4' alt='Avatar' width='30' height='30'> | [CharlesEdeki](https://github.com/CharlesEdeki) | 3 |
+| 4 | 3 | <img src='https://avatars.githubusercontent.com/u/108756842?v=4' alt='Avatar' width='30' height='30'> | [Odeyiany2](https://github.com/Odeyiany2) | 3 |
+| 5 | 4 | <img src='https://avatars.githubusercontent.com/u/72320718?v=4' alt='Avatar' width='30' height='30'> | [Davisonyeas](https://github.com/Davisonyeas) | 2 |
+| 6 | 4 | <img src='https://avatars.githubusercontent.com/u/73951563?v=4' alt='Avatar' width='30' height='30'> | [eniola-ajala](https://github.com/eniola-ajala) | 2 |
+| 7 | 4 | <img src='https://avatars.githubusercontent.com/u/89352799?v=4' alt='Avatar' width='30' height='30'> | [Gbekoilias](https://github.com/Gbekoilias) | 2 |
+| 8 | 5 | <img src='https://avatars.githubusercontent.com/u/85001695?v=4' alt='Avatar' width='30' height='30'> | [Ahbadman](https://github.com/Ahbadman) | 1 |
+| 9 | 5 | <img src='https://avatars.githubusercontent.com/u/118164520?v=4' alt='Avatar' width='30' height='30'> | [Ajlightpro](https://github.com/Ajlightpro) | 1 |
+| 10 | 5 | <img src='https://avatars.githubusercontent.com/u/39243097?v=4' alt='Avatar' width='30' height='30'> | [andrefpoliveira](https://github.com/andrefpoliveira) | 1 |
 
 Thank you to all our fantastic contributors for their hard work and dedication!
 
@@ -43,7 +52,7 @@ Check out the full leaderboard [here](https://github.com/mlsanigeria/AI-Hacktobe
 
 ## 🥇 Prizes
 
-We have exciting prizes for our top contributors, including LinkedIn vouchers and more. Your contributions could earn you valuable rewards and recognition within the community.
+We have exciting prizes for our top contributors, including LinkedIn Premium vouchers and more. Your contributions could earn you valuable rewards and recognition within the community.
 
 ## 💬 Get in Touch
 
